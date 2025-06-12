@@ -1,5 +1,5 @@
 
-# 🔐 Role-Based Authentication API
+# 🔐 Role-Based Authorization API
 
 A secure RESTful API built with **Node.js**, **Express**, and **MongoDB**, supporting user registration, login, and protected routes with **JWT-based authentication** and **role-based access control**.
 
